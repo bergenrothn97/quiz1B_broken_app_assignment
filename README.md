@@ -17,7 +17,7 @@ We will send you a link to the source code on GitHub, you can download from ther
 
 https://github.com/bergenrothn97/quiz1B_broken_app_assignment
 
-Please send us a letter providing the cost of your services and how documentation on how you fixed the app so that we can fix it the next time we have trouble. 
+Please send us a letter providing the cost of your services and how documentation on how you fixed the app so that we can fix it the next time we have trouble with it. 
 
 If you have any questions, please do not hesitate to contact me at nbergenroth@hollandhall.org. 
 
@@ -39,6 +39,6 @@ Project
 2) Project works correctly (8)
 
 Initiative
-1) Demnonstrate some form of initiative to help improve the app in some manner. (5)
+1) Demonstrate some form of initiative to help improve the app in some manner. (5)
 
 This quiz is due by Wednesday 
