@@ -27,3 +27,18 @@ Yours Sincerely,
 Bruce Wayne
 CEO Arkham Tech Solutions
 
+Rubric
+
+Letter
+1) Letter is formatted correctly and has all elements. (3)
+2) Letter contains how much you intend to charge for your services and a justification for this. (3)
+3) Letter is well written with correct grammar and spelling. (2)
+
+Project
+1) Project contains documentation on how it works and what you did to fix it. (4)
+2) Project works correctly (8)
+
+Initiative
+1) Demnonstrate some form of initiative to help improve the app in some manner. (5)
+
+This quiz is due by Wednesday 
